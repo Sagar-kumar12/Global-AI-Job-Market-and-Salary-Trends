@@ -1,0 +1,17 @@
+<p><strong>Global AI Job Market and Salary Trends</strong></p>
+
+<p>This project analyzes a dataset of global Artificial Intelligence (AI) job postings to uncover key market and salary trends. Using Python (Pandas, Seaborn, Matplotlib, and Scikit-learn), the analysis explores:</p>
+
+<ul>
+  <li><strong>Top-paying industries</strong> in AI based on average salaries (USD)</li>
+  <li><strong>Remote work trends</strong> segmented by experience level</li>
+  <li><strong>Salary distributions</strong> across different company sizes</li>
+  <li><strong>Most in-demand AI skills</strong> extracted from job postings</li>
+  <li><strong>Education requirements vs salary levels</strong></li>
+  <li><strong>Monthly hiring trends</strong> for AI roles over time</li>
+  <li><strong>Company-level hiring patterns</strong></li>
+</ul>
+
+<p>Additionally, the project uses <strong>clustering</strong> and <strong>dimensionality reduction (PCA)</strong> to identify patterns in job attributes. The insights can help job seekers, recruiters, and policymakers understand the evolving AI job landscape.</p>
+
+<p><strong>Tech Stack:</strong> Python, Pandas, Matplotlib, Seaborn, Scikit-learn</p>
